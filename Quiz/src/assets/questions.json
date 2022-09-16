@@ -1,0 +1,160 @@
+{
+    "questions": [{
+            "questionText": "Which of the following is not a correct datatype?",
+            "options": [{
+                    "text": "enu",
+                    "correct": true
+                },
+                {
+                    "text": "int"
+                },
+                {
+                    "text": "float"
+                },
+                {
+                    "text": "long"
+                }
+            ],
+            "explanation": "enum is a datatype but not enu"
+        },
+        {
+            "questionText": "Java is short for javascript?",
+            "options": [{
+                    "text": "false",
+                    "correct":true
+                },
+                {
+                    "text": "true"
+                }
+                
+            ],
+            "explanation": "java is not a short for javascript"
+        },
+        {
+            "questionText": "How many primitive datatypes in java?",
+            "options": [{
+                    "text": "6"
+                },
+                {
+                    "text": "8",
+                    "correct": true
+                },
+                {
+                    "text": "7"
+                },
+                {
+                    "text": "5"
+                }
+            ],
+            "explanation": "There are 8 types of primitive datatypes"
+        },
+        {
+            "questionText": "When is the object created with new keyword?",
+            "options": [{
+                    "text": "at compile time"
+                },
+                {
+                    "text": "at run time",
+                    "correct": true
+                },
+                {
+                    "text": "depends on code"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "The object created with new keyword during run time"
+        },
+        {
+            "questionText": "In which of these does a class take parameters?",
+            "options": [{
+                    "text": "constructor",
+                    "correct": true
+                },
+                {
+                    "text": "destructor"
+                },
+                {
+                    "text": "import"
+                },
+                {
+                    "text": "subscribe"
+                }
+            ],
+            "explanation": "a constructor is used by a class to take in parameters"
+        },
+        {
+            "questionText": "Which is NOT an access modifier?",
+            "options": [{
+                    "text": "private"
+                },
+                {
+                    "text": "protected"
+                },
+                {
+                    "text": "public"
+                },
+                {
+                    "text": "async",
+                    "correct": true
+                }
+            ],
+            "explanation": "async is not used as an access modifier type in TypeScript"
+        },
+        {
+            "questionText": "Which keyword allows us to share information between files in TypeScript?",
+            "options": [{
+                    "text": "import"
+                },
+                {
+                    "text": "export",
+                    "correct": true
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "constructor"
+                }
+            ],
+            "explanation": "the export keyword allows for the information to be transmitted between files"
+        },
+        {
+            "questionText": "Which is an array method to generate a new array based on a condition?",
+            "options": [{
+                    "text": "filter",
+                    "correct": true
+                },
+                {
+                    "text": "map"
+                },
+                {
+                    "text": "async"
+                },
+                {
+                    "text": "enum"
+                }
+            ],
+            "explanation": "filter is a method used to conditionally create a new array"
+        },
+        {
+            "questionText": "compareTo()returns?",
+            "options": [{
+                    "text": "An int value",
+                    "correct": true
+                },
+                {
+                    "text": "true"
+                },
+                {
+                    "text": "false"
+                },
+                {
+                    "text": "none"
+                }
+            ],
+            "explanation": "It returns an int value"
+        }
+    ]
+}
